@@ -1,0 +1,5 @@
+[user]
+	email = dev@elhori.com
+	name = Ahmed Elhori
+[init]
+	defaultBranch = master
